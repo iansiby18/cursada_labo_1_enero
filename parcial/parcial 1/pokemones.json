@@ -1,0 +1,29 @@
+{
+    "Hielo": [
+        {
+            "nombre": "Dewgong",
+            "n_poder": 80,
+            "poder": "Defensa"
+        },
+        {
+            "nombre": "Cloyster",
+            "n_poder": 180,
+            "poder": "Defensa"
+        },
+        {
+            "nombre": "Jynx",
+            "n_poder": 50,
+            "poder": "Ataque"
+        },
+        {
+            "nombre": "Lapras",
+            "n_poder": 85,
+            "poder": "Ataque"
+        },
+        {
+            "nombre": "Articuno",
+            "n_poder": 100,
+            "poder": "Defensa"
+        }
+    ]
+}
